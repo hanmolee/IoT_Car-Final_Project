@@ -1,0 +1,1 @@
+python encryptor.py db_bak_$(date +%Y%m%d).sql
